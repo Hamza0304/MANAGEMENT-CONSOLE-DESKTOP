@@ -1,0 +1,106 @@
+[
+  {
+    "name": "test mapping",
+    "mapping_version": 1,
+    "created_date": "2026-09-10T08:38:22.907670",
+    "updated_date": "2026-09-10T08:38:22.907670",
+    "mappings": [
+      {
+        "excel_column": "Computer Name",
+        "target_field": "computer_name"
+      },
+      {
+        "excel_column": "Manufacturer",
+        "target_field": "manufacturer"
+      },
+      {
+        "excel_column": "Model",
+        "target_field": "model"
+      },
+      {
+        "excel_column": "Serial Number",
+        "target_field": "serial_number"
+      },
+      {
+        "excel_column": "Department",
+        "target_field": "department"
+      },
+      {
+        "excel_column": "Assigned User",
+        "target_field": "assigned_user"
+      },
+      {
+        "excel_column": "IP Address",
+        "target_field": "ip_address"
+      },
+      {
+        "excel_column": "MAC Address",
+        "target_field": "mac_address"
+      },
+      {
+        "excel_column": "Operating System",
+        "target_field": "operating_system"
+      },
+      {
+        "excel_column": "RAM",
+        "target_field": "ram"
+      },
+      {
+        "excel_column": "Status",
+        "target_field": "status"
+      }
+    ]
+  },
+  {
+    "name": "test",
+    "mapping_version": 1,
+    "created_date": "2026-09-10T08:53:01.222579",
+    "updated_date": "2026-09-10T08:53:01.222579",
+    "mappings": [
+      {
+        "excel_column": "Computer Name",
+        "target_field": "computer_name"
+      },
+      {
+        "excel_column": "Manufacturer",
+        "target_field": "manufacturer"
+      },
+      {
+        "excel_column": "Model",
+        "target_field": "model"
+      },
+      {
+        "excel_column": "Serial Number",
+        "target_field": "serial_number"
+      },
+      {
+        "excel_column": "Department",
+        "target_field": "department"
+      },
+      {
+        "excel_column": "Assigned User",
+        "target_field": "assigned_user"
+      },
+      {
+        "excel_column": "IP Address",
+        "target_field": "ip_address"
+      },
+      {
+        "excel_column": "MAC Address",
+        "target_field": "mac_address"
+      },
+      {
+        "excel_column": "Operating System",
+        "target_field": "operating_system"
+      },
+      {
+        "excel_column": "RAM",
+        "target_field": "ram"
+      },
+      {
+        "excel_column": "Status",
+        "target_field": "status"
+      }
+    ]
+  }
+]

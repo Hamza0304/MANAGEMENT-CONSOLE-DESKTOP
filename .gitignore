@@ -1,0 +1,48 @@
+# Qodo
+.qodo/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# PyInstaller / Build output
+build/
+build_hidden/
+dist/
+
+# Installer output
+installer_output/
+
+# Keep PyInstaller spec files tracked
+# *.spec
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local application data
+*.db
+*.log
+
+# Local reports / temporary files
+*.csv
+*.xlsx
+
+# Local test / generated files
+python
+python_files.txt
+structure.txtgit status
